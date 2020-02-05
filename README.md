@@ -6,7 +6,8 @@ My works related to Google Chrome
 2. [Official references websites.](#references)
 3. [Google Chrome shortcuts.](#shortcuts)
 4. [Google Chrome cache history.](#cache)
-5. [GitHub notes.](#github)
+5. [Google Chrome scratch pad.](#scratchpad)
+6. [GitHub notes.](#github)
 
 <a name="introduction"></a>
 ## 1. Introduction.
@@ -41,9 +42,15 @@ It will show this kind of example message, with the option below it to view as `
 ```
 This is Google's cache of http://www.google.com/. It is a snapshot of the page as it appeared on 4 Feb 2020 06:06:59 GMT. The current page could have changed in the meantime. Learn more.
 ```
+<a name="scratchpad"></a>
+## 5. Google Chrome scratch pad.
+Copy and paste the below codes on Google Chrome browser address bar and you will have a scratchpad that have blank working space to work with.
+```
+data:text/html;charset=utf-8, <title>Scratchpad</title><style>body {padding: 5%; font-size: 1.5em; font-family: Arial; }"></style><link rel="shortcut icon" href="https://ssl.gstatic.com/docs/documents/images/kix-favicon6.ico"/><body OnLoad='document.body.focus();' contenteditable spellcheck="true" >
+```
 
 <a name="github"></a>
-## 5. GitHub notes.
+## 6. GitHub notes.
 Clone the current GitHub remote repository contents into local machine.
 ```
 $ git clone https://github.com/syakirharis25/Google-Chrome.git
