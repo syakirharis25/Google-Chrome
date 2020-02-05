@@ -8,7 +8,7 @@ My works related to Google Chrome
 
 <a name="introduction"></a>
 ## 1. Introduction.
-<img src="jquery.jpg" height="200"> 
+<img src="Chrome.jpg" height="200"> 
 Google Chrome is a cross-platform web browser developed by Google. It was first released in 2008 for Microsoft Windows, and was later ported to Linux, macOS, iOS, and Android. The browser is also the main component of Chrome OS, where it serves as the platform for web apps.
 
 Most of Chrome's source code comes from Google's open-source Chromium project, but Chrome is licensed as proprietary freeware. WebKit was the original rendering engine, but Google eventually forked it to create the Blink engine; all Chrome variants except iOS now use Blink.
