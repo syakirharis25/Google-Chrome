@@ -34,6 +34,8 @@ Official Google Chrome website : https://www.google.com/chrome/ <br />
 **[ Ctrl ]** + **[ Shift ]** + **[ T ]** : open back the last recently closed { -2 } tab (second hit) <br />
 **[ Ctrl ]** + **[ Shift ]** + **[ T ]** : open back the last recently closed { -3 } tab (second hit) <br />
 
+**[ Ctrl ]** + **[ MOUSE LEFT CLICK ]** : to open a new address link, the achor text without disrupting, closing the current tab<br />
+
 <a name="github"></a>
 ## 4. Google Chrome cache history.
 If the website is down, you can view what is the last happened on the website by adding prefix `cache:` in front of the address link on the Google Chrome address bar. For example `https://www.google.com` -- changed into --> `cache:https://www.google.com` and hit **[ Enter ]** using your keyboard.
@@ -42,6 +44,8 @@ It will show this kind of example message, with the option below it to view as `
 ```
 This is Google's cache of http://www.google.com/. It is a snapshot of the page as it appeared on 4 Feb 2020 06:06:59 GMT. The current page could have changed in the meantime. Learn more.
 ```
+To view all the previous histories of Google Chrome, simply long press your **[ MOUSE LEFT CLICK ]** on the **( ← )** symbol on your top left of the Google Chrome browser of your current tab.
+
 <a name="scratchpad"></a>
 ## 5. Google Chrome scratch pad.
 Copy and paste the below codes on Google Chrome browser address bar and you will have a scratchpad that have blank working space to work with.
