@@ -7,7 +7,8 @@ My works related to Google Chrome
 3. [Google Chrome shortcuts.](#shortcuts)
 4. [Google Chrome cache history.](#cache)
 5. [Google Chrome scratch pad.](#scratchpad)
-6. [GitHub notes.](#github)
+6. [Google Chrome mute site option.](#mute)
+7. [GitHub notes.](#github)
 
 <a name="introduction"></a>
 ## 1. Introduction.
@@ -34,7 +35,8 @@ Official Google Chrome website : https://www.google.com/chrome/ <br />
 **[ Ctrl ]** + **[ Shift ]** + **[ T ]** : open back the last recently closed { -2 } tab (second hit) <br />
 **[ Ctrl ]** + **[ Shift ]** + **[ T ]** : open back the last recently closed { -3 } tab (second hit) <br />
 
-**[ Ctrl ]** + **[ MOUSE LEFT CLICK ]** : to open a new address link, the achor text without disrupting, closing the current tab<br />
+**[ Ctrl ]** + **[ MOUSE LEFT CLICK ]** : to open a new address link, the achor text without disrupting, closing the current tab <br />
+**[ Ctrl ]** + **[ Shift ]** + **[ D ]** : to save all your open tabs in your current or new folder of your choice < br />
 
 <a name="github"></a>
 ## 4. Google Chrome cache history.
@@ -53,8 +55,14 @@ Copy and paste the below codes on Google Chrome browser address bar and you will
 data:text/html;charset=utf-8, <title>Scratchpad</title><style>body {padding: 5%; font-size: 1.5em; font-family: Arial; }"></style><link rel="shortcut icon" href="https://ssl.gstatic.com/docs/documents/images/kix-favicon6.ico"/><body OnLoad='document.body.focus();' contenteditable spellcheck="true" >
 ```
 
+<a name="scratchpad"></a>
+## 6. Google Chrome mute site option.
+To mute certain site, simply hover your mouse on the tab you wish to mute, on top of your Google Chrome browser and **[ MOUSE RIGHT CLICK ]**, to show the menu to mute the site and hover to the menu that show the text `Mute site` and **[ MOUSE LEFT CLICK ]** on it.
+
+To undo the mute, simply hover your mouse on the tab you wish to mute, on top of your Google Chrome browser and **[ MOUSE RIGHT CLICK ]**,  to show the menu to unmute the site and hover to the menu that show the text `Unmute site` and **[ MOUSE LEFT CLICK ]** on it.
+
 <a name="github"></a>
-## 6. GitHub notes.
+## 7. GitHub notes.
 Clone the current GitHub remote repository contents into local machine.
 ```
 $ git clone https://github.com/syakirharis25/Google-Chrome.git
