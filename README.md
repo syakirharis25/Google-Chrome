@@ -4,7 +4,9 @@ My works related to Google Chrome
 ## Table of Contents
 1. [Introduction.](#introduction)
 2. [Official references websites.](#references)
-3. [GitHub notes.](#github)
+3. [Google Chrome shortcuts.](#shortcuts)
+4. [Google Chrome cache history.](#cache)
+5. [GitHub notes.](#github)
 
 <a name="introduction"></a>
 ## 1. Introduction.
@@ -19,8 +21,29 @@ As of July 2019, StatCounter estimates that Chrome has a 71% worldwide browser m
 ## 2. Official references websites.
 Official Google Chrome website : https://www.google.com/chrome/ <br />
 
+<a name="shortcuts"></a>
+## 3. Google Chrome shortcuts.
+**_Scroll management_** <br />
+**[ SPACE BAR ]** : scroll down faster <br />
+**[ Shift ]** + **[ SPACE BAR ]** : scroll up faster <br />
+
+**_Tabs management_** <br />
+**--- { -3 } --- { -2 } --- { -1 } --- { current tab } --- { 1 } --- { 2 } --- { 3 } ---** <br />
+**[ Ctrl ]** + **[ Shift ]** + **[ T ]** : open back the last recently closed { -1 } tab (first hit) <br />
+**[ Ctrl ]** + **[ Shift ]** + **[ T ]** : open back the last recently closed { -2 } tab (second hit) <br />
+**[ Ctrl ]** + **[ Shift ]** + **[ T ]** : open back the last recently closed { -3 } tab (second hit) <br />
+
 <a name="github"></a>
-## 6. GitHub notes.
+## 4. Google Chrome cache history.
+If the website is down, you can view what is the last happened on the website by adding prefix `cache:` in front of the address link on the Google Chrome address bar. For example `https://www.google.com` -- changed into --> `cache:https://www.google.com` and hit **[ Enter ]** using your keyboard.
+
+It will show this kind of example message, with the option below it to view as ` Full version` or `Text-only` or `View source`.
+```
+This is Google's cache of http://www.google.com/. It is a snapshot of the page as it appeared on 4 Feb 2020 06:06:59 GMT. The current page could have changed in the meantime. Learn more.
+```
+
+<a name="github"></a>
+## 5. GitHub notes.
 Clone the current GitHub remote repository contents into local machine.
 ```
 $ git clone https://github.com/syakirharis25/Google-Chrome.git
