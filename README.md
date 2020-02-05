@@ -55,6 +55,8 @@ Copy and paste the below codes on Google Chrome browser address bar and you will
 data:text/html;charset=utf-8, <title>Scratchpad</title><style>body {padding: 5%; font-size: 1.5em; font-family: Arial; }"></style><link rel="shortcut icon" href="https://ssl.gstatic.com/docs/documents/images/kix-favicon6.ico"/><body OnLoad='document.body.focus();' contenteditable spellcheck="true" >
 ```
 
+To copy the text from Google Chrome, simply press **[ Ctrl ]** + **[C ]** on the selected text, and **[ Ctrl ]** + **[ V ]** on the Google Chrome scratch pad, to paste without the formatting, press **[ Ctrl ]** + **[ Shift ]** + **[ V ]**.
+
 <a name="scratchpad"></a>
 ## 6. Google Chrome mute site option.
 To mute certain site, simply hover your mouse on the tab you wish to mute, on top of your Google Chrome browser and **[ MOUSE RIGHT CLICK ]**, to show the menu to mute the site and hover to the menu that show the text `Mute site` and **[ MOUSE LEFT CLICK ]** on it.
