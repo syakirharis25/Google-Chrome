@@ -8,7 +8,8 @@ My works related to Google Chrome
 4. [Google Chrome cache history.](#cache)
 5. [Google Chrome scratch pad.](#scratchpad)
 6. [Google Chrome mute site option.](#mute)
-7. [GitHub notes.](#github)
+7. [Restarting Google Chrome.](#restart)
+8. [GitHub notes.](#github)
 
 <a name="introduction"></a>
 ## 1. Introduction.
@@ -38,6 +39,8 @@ Official Google Chrome website : https://www.google.com/chrome/ <br />
 **[ Ctrl ]** + **[ MOUSE LEFT CLICK ]** : to open a new address link, the achor text without disrupting, closing the current tab <br />
 **[ Ctrl ]** + **[ Shift ]** + **[ D ]** : to save all your open tabs in your current or new folder of your choice < br />
 
+To adjust or create your own Google Chrome shortcuts, type `chrome://extensions/shortcuts` on your Google Chrome address bar, and the menu to manage your own Google Chrome shortcuts will appear on your Google Chrome browser.
+
 <a name="github"></a>
 ## 4. Google Chrome cache history.
 If the website is down, you can view what is the last happened on the website by adding prefix `cache:` in front of the address link on the Google Chrome address bar. For example `https://www.google.com` -- changed into --> `cache:https://www.google.com` and hit **[ Enter ]** using your keyboard.
@@ -63,8 +66,12 @@ To mute certain site, simply hover your mouse on the tab you wish to mute, on to
 
 To undo the mute, simply hover your mouse on the tab you wish to mute, on top of your Google Chrome browser and **[ MOUSE RIGHT CLICK ]**,  to show the menu to unmute the site and hover to the menu that show the text `Unmute site` and **[ MOUSE LEFT CLICK ]** on it.
 
+<a name="restart"></a>
+## 7. Restarting Google Chrome.
+To restart the Google Chrome, type `chrome://restart` on your Google Chrome browser address bar and press **[ Enter ]** on your keyboard to restart the Google Chrome, your Google Chrome browser will shut down for a few seconds then will come back alive again, restoring all your active working tabs and windows in instant.
+
 <a name="github"></a>
-## 7. GitHub notes.
+## 8. GitHub notes.
 Clone the current GitHub remote repository contents into local machine.
 ```
 $ git clone https://github.com/syakirharis25/Google-Chrome.git
