@@ -33,6 +33,7 @@ console.assert() by Mozilla : https://developer.mozilla.org/en-US/docs/Web/API/c
 console.dir() by Mozilla : https://developer.mozilla.org/en-US/docs/Web/API/Console/dir <br />
 console.table() by Mozilla : https://developer.mozilla.org/en-US/docs/Web/API/Console/table <br />
 console.clear() by Mozilla : https://developer.mozilla.org/en-US/docs/Web/API/Console/clear <br />
+console.group() by Mozilla : https://developer.mozilla.org/en-US/docs/Web/API/Console/group <br />
 
 **_Google Chrome Document API by Mozilla_** <br />
 Document by Mozilla : https://developer.mozilla.org/en-US/docs/Web/API/Document <br />
