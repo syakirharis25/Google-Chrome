@@ -38,7 +38,8 @@ Official Google Chrome website : https://www.google.com/chrome/ <br />
 
 **[ Ctrl ]** + **[ MOUSE LEFT CLICK ]** : to open a new address link, the achor text without disrupting, closing the current tab <br />
 **[ Ctrl ]** + **[ Shift ]** + **[ D ]** : to save all your open tabs in your current or new folder of your choice <br />
-**[ Ctrl ]** + **[ R ]** : refresh current active tab <br />
+**[ Ctrl ]** + **[ R ]** : refresh the current active tab <br />
+**[ Ctrl ]** + **[ W ]** : close the current active tab <br />
 
 **_Downloads management_** <br />
 **[ Ctrl ]** + **[ J ]** : will open chrome://downloads in address bar to view the current downloads <br />
