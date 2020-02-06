@@ -51,6 +51,9 @@ Quickly toggling elements in the Web Inspector : https://bricss.net/post/6401310
 Google Chrome Console Overview : https://developers.google.com/web/tools/chrome-devtools/console <br />
 TIME-SAVING CHROME DEVTOOLS SHORTCUTS by Dmitriy Pashkevich : https://www.lucidchart.com/techblog/2018/04/17/time-saving-chrome-devtools-shortcuts/ <br />
 
+**_Google Chrome developers_** <br />
+Dmitry Pashkevich in GitHub : https://github.com/dpashkevich <br />
+
 <a name="shortcuts"></a>
 ## 3. Google Chrome shortcuts.
 **_Scroll management_** <br />
