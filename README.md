@@ -36,6 +36,7 @@ console.dir() by Mozilla : https://developer.mozilla.org/en-US/docs/Web/API/Cons
 Document by Mozilla : https://developer.mozilla.org/en-US/docs/Web/API/Document <br />
 Document.URL by Mozilla : https://developer.mozilla.org/en-US/docs/Web/API/Document/URL <br />
 Document.body by Mozilla : https://developer.mozilla.org/en-US/docs/Web/API/Document/body <br />
+Document.head by Mozilla : https://developer.mozilla.org/en-US/docs/Web/API/Document/head <br />
 
 **_Articles_** <br />
 Browse in private by Google Chrome Help : https://support.google.com/chrome/answer/95464?co=GENIE.Platform%3DDesktop&hl=en <br />
