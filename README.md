@@ -26,25 +26,6 @@ As of July 2019, StatCounter estimates that Chrome has a 71% worldwide browser m
 Official Google Chrome website : https://www.google.com/chrome <br />
 Official Google Chrome Help website : https://support.google.com <br />
 
-**_Google Chrome console API by Mozilla_** <br />
-console.error() by Mozilla : https://developer.mozilla.org/en-US/docs/Web/API/Console/error <br />
-console.log() by Mozilla : https://developer.mozilla.org/en-US/docs/Web/API/Console/log <br />
-console.warn() by Mozilla : https://developer.mozilla.org/en-US/docs/Web/API/Console/warn <br />
-console.assert() by Mozilla : https://developer.mozilla.org/en-US/docs/Web/API/console/assert <br />
-console.dir() by Mozilla : https://developer.mozilla.org/en-US/docs/Web/API/Console/dir <br />
-console.table() by Mozilla : https://developer.mozilla.org/en-US/docs/Web/API/Console/table <br />
-console.clear() by Mozilla : https://developer.mozilla.org/en-US/docs/Web/API/Console/clear <br />
-console.group() by Mozilla : https://developer.mozilla.org/en-US/docs/Web/API/Console/group <br />
-console.groupEnd() by Mozilla : https://developer.mozilla.org/en-US/docs/Web/API/Console/groupEnd <br />
-console.time() by Mozilla : https://developer.mozilla.org/en-US/docs/Web/API/Console/time <br />
-console.timeEnd() by Mozilla : https://developer.mozilla.org/en-US/docs/Web/API/Console/timeEnd <br />
-
-**_Google Chrome Document API by Mozilla_** <br />
-Document by Mozilla : https://developer.mozilla.org/en-US/docs/Web/API/Document <br />
-Document.URL by Mozilla : https://developer.mozilla.org/en-US/docs/Web/API/Document/URL <br />
-Document.body by Mozilla : https://developer.mozilla.org/en-US/docs/Web/API/Document/body <br />
-Document.head by Mozilla : https://developer.mozilla.org/en-US/docs/Web/API/Document/head <br />
-
 **_Articles_** <br />
 Browse in private by Google Chrome Help : https://support.google.com/chrome/answer/95464?co=GENIE.Platform%3DDesktop&hl=en <br />
 Quickly toggling elements in the Web Inspector : https://bricss.net/post/64013104469/quickly-toggling-elements-in-the-web-inspector <br />
