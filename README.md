@@ -40,6 +40,9 @@ Official Google Chrome website : https://www.google.com/chrome/ <br />
 **[ Ctrl ]** + **[ Shift ]** + **[ D ]** : to save all your open tabs in your current or new folder of your choice <br />
 **[ Ctrl ]** + **[ R ]** : refresh current active tab <br />
 
+**_Downloads management_** <br />
+**[ Ctrl ]** + **[ J ]** : will open chrome://downloads in address bar to view the current downloads <br />
+
 **_Developer tools management_** <br />
 **[ Ctrl ]** + **[ Shift ]** + **[ J ]** : open developer Console menu <br />
 **[ Ctrl ]** + **[ Shift ]** + **[ S ]** : open developer Elements  and Styles menu <br />
