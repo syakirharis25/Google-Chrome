@@ -28,6 +28,7 @@ Official Google Chrome Help website : https://support.google.com <br />
 **_Articles_** <br />
 Browse in private by Google Chrome Help : https://support.google.com/chrome/answer/95464?co=GENIE.Platform%3DDesktop&hl=en <br />
 Quickly toggling elements in the Web Inspector : https://bricss.net/post/64013104469/quickly-toggling-elements-in-the-web-inspector <br />
+Google Chrome Console Overview : https://developers.google.com/web/tools/chrome-devtools/console <br />
 
 <a name="shortcuts"></a>
 ## 3. Google Chrome shortcuts.
