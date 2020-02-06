@@ -36,6 +36,7 @@ console.clear() by Mozilla : https://developer.mozilla.org/en-US/docs/Web/API/Co
 console.group() by Mozilla : https://developer.mozilla.org/en-US/docs/Web/API/Console/group <br />
 console.groupEnd() by Mozilla : https://developer.mozilla.org/en-US/docs/Web/API/Console/groupEnd <br />
 console.time() by Mozilla : https://developer.mozilla.org/en-US/docs/Web/API/Console/time <br />
+console.timeEnd() by Mozilla : https://developer.mozilla.org/en-US/docs/Web/API/Console/timeEnd <br />
 
 **_Google Chrome Document API by Mozilla_** <br />
 Document by Mozilla : https://developer.mozilla.org/en-US/docs/Web/API/Document <br />
