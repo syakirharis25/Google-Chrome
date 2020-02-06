@@ -40,6 +40,10 @@ Official Google Chrome website : https://www.google.com/chrome/ <br />
 **[ Ctrl ]** + **[ Shift ]** + **[ D ]** : to save all your open tabs in your current or new folder of your choice <br />
 **[ Ctrl ]** + **[ R ]** : refresh current active tab <br />
 
+**_Developer tools management_** <br />
+**[ Ctrl ]** + **[ Shift ]** + **[ J ]** : open developer Console menu <br />
+**[ Ctrl ]** + **[ Shift ]** + **[ S ]** : open developer Elements  and Styles menu <br />
+
 To adjust or create your own Google Chrome shortcuts, type `chrome://extensions/shortcuts` on your Google Chrome address bar, and the menu to manage your own Google Chrome shortcuts will appear on your Google Chrome browser.
 
 <a name="github"></a>
