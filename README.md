@@ -31,6 +31,7 @@ console.log() by Mozilla : https://developer.mozilla.org/en-US/docs/Web/API/Cons
 console.warn() by Mozilla : https://developer.mozilla.org/en-US/docs/Web/API/Console/warn <br />
 console.assert() by Mozilla : https://developer.mozilla.org/en-US/docs/Web/API/console/assert <br />
 console.dir() by Mozilla : https://developer.mozilla.org/en-US/docs/Web/API/Console/dir <br />
+console.table() by Mozilla : https://developer.mozilla.org/en-US/docs/Web/API/Console/table <br />
 
 **_Google Chrome Document API by Mozilla_** <br />
 Document by Mozilla : https://developer.mozilla.org/en-US/docs/Web/API/Document <br />
