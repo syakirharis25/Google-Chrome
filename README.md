@@ -120,8 +120,12 @@ To undo the mute, simply hover your mouse on the tab you wish to mute, on top of
 ## 7. Restarting Google Chrome.
 To restart the Google Chrome, type `chrome://restart` on your Google Chrome browser address bar and press **[ Enter ]** on your keyboard to restart the Google Chrome, your Google Chrome browser will shut down for a few seconds then will come back alive again, restoring all your active working tabs and windows in instant.
 
+<a name="DevToolsProjects"></a>
+## 8. Editing and saving project files using Google Chrome DevTools.
+First open the Google Chrome DevTools by pressing **[ Ctrl ]** + **[ Shift ]** + **[ I ]** on your keyboard, from the menu shown, on the top, **[ MOUSE LEFT CLICK ]** the label `Sources`, then **[ MOUSE LEFT CLICK ]** the label `>>` on left side below the `Sources` list of menu, then **[ MOUSE LEFT CLICK ]** the label `Filesystem`, then **[ MOUSE LEFT CLICK ]** the label `+Add folder to workspace`, then choose your desired working folder, by **[ MOUSE LEFT CLICK ]** on it, then **[ MOUSE LEFT CLICK ]** the `Select Folder` button. You can edit files content on the working space shown, and save your edits by pressing **[ Ctrl ]** + **[ S ]** button on your keyboard, any changes made, will also effect other active text editor like Visual Code Studio that working on the same project.
+
 <a name="github"></a>
-## 8. GitHub notes.
+## 9. GitHub notes.
 Clone the current GitHub remote repository contents into local machine.
 ```
 $ git clone https://github.com/syakirharis25/Google-Chrome.git
