@@ -49,6 +49,7 @@ Document.head by Mozilla : https://developer.mozilla.org/en-US/docs/Web/API/Docu
 Browse in private by Google Chrome Help : https://support.google.com/chrome/answer/95464?co=GENIE.Platform%3DDesktop&hl=en <br />
 Quickly toggling elements in the Web Inspector : https://bricss.net/post/64013104469/quickly-toggling-elements-in-the-web-inspector <br />
 Google Chrome Console Overview : https://developers.google.com/web/tools/chrome-devtools/console <br />
+TIME-SAVING CHROME DEVTOOLS SHORTCUTS by Dmitriy Pashkevich : https://www.lucidchart.com/techblog/2018/04/17/time-saving-chrome-devtools-shortcuts/ <br />
 
 <a name="shortcuts"></a>
 ## 3. Google Chrome shortcuts.
