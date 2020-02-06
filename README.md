@@ -22,13 +22,18 @@ As of July 2019, StatCounter estimates that Chrome has a 71% worldwide browser m
 
 <a name="references"></a>
 ## 2. Official references websites.
-Official Google Chrome website : https://www.google.com/chrome/ <br />
+Official Google Chrome website : https://www.google.com/chrome <br />
+Official Google Chrome Help website : https://support.google.com <br />
 
 <a name="shortcuts"></a>
 ## 3. Google Chrome shortcuts.
 **_Scroll management_** <br />
 **[ SPACE BAR ]** : scroll down faster <br />
 **[ Shift ]** + **[ SPACE BAR ]** : scroll up faster <br />
+
+**_Screen window management_** <br />
+**[ Fn ]** + **[ F11 ]** : to switch into full screen mode (first time) <br />
+**[ Fn ]** + **[ F11 ]** : to switch back into normal mode (second time) <br />
 
 **_Tabs management_** <br />
 **--- { -3 } --- { -2 } --- { -1 } --- { current tab } --- { 1 } --- { 2 } --- { 3 } ---** <br />
