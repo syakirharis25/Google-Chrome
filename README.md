@@ -32,6 +32,11 @@ console.warn() by Mozilla : https://developer.mozilla.org/en-US/docs/Web/API/Con
 console.assert() by Mozilla : https://developer.mozilla.org/en-US/docs/Web/API/console/assert <br />
 console.dir() by Mozilla : https://developer.mozilla.org/en-US/docs/Web/API/Console/dir <br />
 
+**_Google Chrome Document API by Mozilla_** <br />
+Document by Mozilla : https://developer.mozilla.org/en-US/docs/Web/API/Document <br />
+Document.URL by Mozilla : https://developer.mozilla.org/en-US/docs/Web/API/Document/URL <br />
+Document.body by Mozilla : https://developer.mozilla.org/en-US/docs/Web/API/Document/body <br />
+
 **_Articles_** <br />
 Browse in private by Google Chrome Help : https://support.google.com/chrome/answer/95464?co=GENIE.Platform%3DDesktop&hl=en <br />
 Quickly toggling elements in the Web Inspector : https://bricss.net/post/64013104469/quickly-toggling-elements-in-the-web-inspector <br />
