@@ -9,7 +9,8 @@ My works related to Google Chrome
 5. [Google Chrome scratch pad.](#scratchpad)
 6. [Google Chrome mute site option.](#mute)
 7. [Restarting Google Chrome.](#restart)
-8. [GitHub notes.](#github)
+8. [Editing and saving project files using Google Chrome DevTools.](#DevToolsProjects)
+9. [GitHub notes.](#github)
 
 <a name="introduction"></a>
 ## 1. Introduction.
