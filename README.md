@@ -56,6 +56,9 @@ Official Google Chrome Help website : https://support.google.com <br />
 **[ Ctrl ]** + **[ Shift ]** + **[ I ]** : show developer Tools menu (first hit) <br />
 **[ Ctrl ]** + **[ Shift ]** + **[ I ]** : hide developer Tools menu (second hit) <br />
 
+**[ Fn ]** + **[ F12 ]** : show developer Tools menu (second hit) <br />
+**[ Fn ]** + **[ F12 ]** : hide developer Tools menu (second hit) <br />
+
 To adjust or create your own Google Chrome shortcuts, type `chrome://extensions/shortcuts` on your Google Chrome address bar, and the menu to manage your own Google Chrome shortcuts will appear on your Google Chrome browser.
 
 <a name="github"></a>
