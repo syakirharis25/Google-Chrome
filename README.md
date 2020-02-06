@@ -25,6 +25,9 @@ As of July 2019, StatCounter estimates that Chrome has a 71% worldwide browser m
 Official Google Chrome website : https://www.google.com/chrome <br />
 Official Google Chrome Help website : https://support.google.com <br />
 
+**_Articles_** <br />
+Browse in private by Google Chrome Help : https://support.google.com/chrome/answer/95464?co=GENIE.Platform%3DDesktop&hl=en <br />
+
 <a name="shortcuts"></a>
 ## 3. Google Chrome shortcuts.
 **_Scroll management_** <br />
@@ -48,6 +51,7 @@ Official Google Chrome Help website : https://support.google.com <br />
 
 **_Downloads management_** <br />
 **[ Ctrl ]** + **[ J ]** : will open chrome://downloads in address bar to view the current downloads <br />
+**[ Ctrl ]** + **[ Shift ]** + **[ N ]**  : turn on incognito browse in private mode <br />
 
 **_Developer tools management_** <br />
 **[ Ctrl ]** + **[ Shift ]** + **[ J ]** : open developer Console menu <br />
