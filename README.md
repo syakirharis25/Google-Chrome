@@ -26,8 +26,9 @@ Official Google Chrome website : https://www.google.com/chrome <br />
 Official Google Chrome Help website : https://support.google.com <br />
 
 **_Google Chrome console API by Mozilla_** <br />
-Console.error() : https://developer.mozilla.org/en-US/docs/Web/API/Console/error <br />
-console.log() : https://developer.mozilla.org/en-US/docs/Web/API/Console/log <br />
+console.error() by Mozilla : https://developer.mozilla.org/en-US/docs/Web/API/Console/error <br />
+console.log() by Mozilla : https://developer.mozilla.org/en-US/docs/Web/API/Console/log <br />
+console.warn() by Mozilla : https://developer.mozilla.org/en-US/docs/Web/API/Console/warn <br />
 
 **_Articles_** <br />
 Browse in private by Google Chrome Help : https://support.google.com/chrome/answer/95464?co=GENIE.Platform%3DDesktop&hl=en <br />
