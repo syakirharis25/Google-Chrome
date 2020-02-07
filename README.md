@@ -1,5 +1,5 @@
 # Google-Chrome
-My works related to Google Chrome
+My works related to Google Chrome.
 
 ## Table of Contents
 1. [Introduction.](#introduction)
