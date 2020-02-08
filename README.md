@@ -64,7 +64,7 @@ Dmitry Pashkevich in GitHub : https://github.com/dpashkevich <br />
 **[ Ctrl ]** + **[ Shift ]** + **[ J ]** : open developer Console menu <br />
 **[ Ctrl ]** + **[ Shift ]** + **[ S ]** : open developer Elements and Styles menu <br />
 
-**[ Ctrl ]** + **[ Shift ]** + **[ I ]** : show developer Tools menu (first hit) <br />
+**[ Ctrl ]** + **[ Shift ]** + **[ I ]** : inspect the elemenst and show developer Tools menu (first hit) <br />
 **[ Ctrl ]** + **[ Shift ]** + **[ I ]** : hide developer Tools menu (second hit) <br />
 
 **[ Fn ]** + **[ F12 ]** : show developer Tools menu (second hit) <br />
