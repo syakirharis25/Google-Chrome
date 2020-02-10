@@ -26,6 +26,8 @@ As of July 2019, StatCounter estimates that Chrome has a 71% worldwide browser m
 Official Google Chrome website : https://www.google.com/chrome <br />
 Official Google Chrome Help website : https://support.google.com <br />
 
+Stack Overflow questions and answers website : https://stackoverflow.com/ <br />
+
 **_Articles_** <br />
 Browse in private by Google Chrome Help : https://support.google.com/chrome/answer/95464?co=GENIE.Platform%3DDesktop&hl=en <br />
 Quickly toggling elements in the Web Inspector : https://bricss.net/post/64013104469/quickly-toggling-elements-in-the-web-inspector <br />
@@ -34,6 +36,9 @@ TIME-SAVING CHROME DEVTOOLS SHORTCUTS by Dmitriy Pashkevich : https://www.lucidc
 
 **_Google Chrome developers_** <br />
 Dmitry Pashkevich in GitHub : https://github.com/dpashkevich <br />
+
+**_Google Chrome related questions and answers by Stack Overflow_**
+Find next (keyboard shortcut) in the Sources tab of Google Chrome Developer tools by Stack Overflow : https://stackoverflow.com/questions/39252167/find-next-keyboard-shortcut-in-the-sources-tab-of-google-chrome-developer-tool
 
 <a name="shortcuts"></a>
 ## 3. Google Chrome shortcuts.
@@ -69,6 +74,11 @@ Dmitry Pashkevich in GitHub : https://github.com/dpashkevich <br />
 
 **[ Fn ]** + **[ F12 ]** : show developer Tools menu (second hit) <br />
 **[ Fn ]** + **[ F12 ]** : hide developer Tools menu (second hit) <br />
+
+**_Text searching management_** <br />
+**[ Ctrl ]** + **[ F ]** : to find certain text <br />
+**[ Ctrl ]** + **[ G ]** + **[ I ]** : search the next same text <br />
+**[ Ctrl ]** + **[ Shift ]** + **[ G ]** : search the previous same text <br />
 
 To adjust or create your own Google Chrome shortcuts, type `chrome://extensions/shortcuts` on your Google Chrome address bar, and the menu to manage your own Google Chrome shortcuts will appear on your Google Chrome browser.
 
