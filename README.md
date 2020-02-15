@@ -33,12 +33,13 @@ Browse in private by Google Chrome Help : https://support.google.com/chrome/answ
 Quickly toggling elements in the Web Inspector : https://bricss.net/post/64013104469/quickly-toggling-elements-in-the-web-inspector <br />
 Google Chrome Console Overview : https://developers.google.com/web/tools/chrome-devtools/console <br />
 TIME-SAVING CHROME DEVTOOLS SHORTCUTS by Dmitriy Pashkevich : https://www.lucidchart.com/techblog/2018/04/17/time-saving-chrome-devtools-shortcuts/ <br />
+How do I stop Google Chrome browser closing automatically? : https://www.quora.com/How-do-I-stop-Google-Chrome-browser-closing-automatically <br />
 
 **_Google Chrome developers_** <br />
 Dmitry Pashkevich in GitHub : https://github.com/dpashkevich <br />
 
 **_Google Chrome related questions and answers by Stack Overflow_**
-Find next (keyboard shortcut) in the Sources tab of Google Chrome Developer tools by Stack Overflow : https://stackoverflow.com/questions/39252167/find-next-keyboard-shortcut-in-the-sources-tab-of-google-chrome-developer-tool
+Find next (keyboard shortcut) in the Sources tab of Google Chrome Developer tools by Stack Overflow : https://stackoverflow.com/questions/39252167/find-next-keyboard-shortcut-in-the-sources-tab-of-google-chrome-developer-tool <br />
 
 <a name="shortcuts"></a>
 ## 3. Google Chrome shortcuts.
