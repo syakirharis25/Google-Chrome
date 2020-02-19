@@ -77,6 +77,8 @@ Find next (keyboard shortcut) in the Sources tab of Google Chrome Developer tool
 **[ Fn ]** + **[ F12 ]** : show developer Tools menu (second hit) <br />
 **[ Fn ]** + **[ F12 ]** : hide developer Tools menu (second hit) <br />
 
+**[ Ctrl ]** + **[ U ]** : to view the source code <br />
+
 **_Text searching management_** <br />
 **[ Ctrl ]** + **[ F ]** : to find certain text <br />
 **[ Ctrl ]** + **[ G ]** + **[ I ]** : search the next same text <br />
