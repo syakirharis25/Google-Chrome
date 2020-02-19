@@ -11,6 +11,7 @@ My works related to Google Chrome.
 7. [Restarting Google Chrome.](#restart)
 8. [Editing and saving project files using Google Chrome DevTools.](#DevToolsProjects)
 9. [GitHub notes.](#github)
+10. [GitHub repository calculation.](#calculation)
 
 <a name="introduction"></a>
 ## 1. Introduction.
@@ -124,3 +125,20 @@ $ git clone https://github.com/syakirharis25/Google-Chrome.git
 $ cd Google-Chrome/
 $ git remote -v
 $ git status
+```
+
+<a name="calculation"></a>
+## 10. GitHub repository calculation.
+```
+-------------------------------------------------------------------------------
+Language                     files          blank        comment           code
+-------------------------------------------------------------------------------
+CSS                              2             43             10            211
+HTML                             2             24             13            113
+Markdown                         2             37              0            103
+JavaScript                       1              4              0             15
+-------------------------------------------------------------------------------
+SUM:                             7            108             23            442
+-------------------------------------------------------------------------------
+```
+Refer to : https://github.com/syakirharis25/cloc
